@@ -1,2 +1,2 @@
-# eeg_to_gpt
+# EEG to GPT
 Using the Unicorn BCI to formulate requests to a chatbot using Tinker and OpenAI's API.
